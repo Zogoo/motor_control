@@ -1,3 +1,0 @@
-[console_scripts]
-motor_manager = motor_control.motor_node:main
-
