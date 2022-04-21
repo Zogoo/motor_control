@@ -1,0 +1,21 @@
+[1.254s] Invoking command in '/mnt/d/py-workspace/src/motor_control': PYTHONPATH=/mnt/d/py-workspace/src/motor_control/install/motor_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/motor_control build --build-base /mnt/d/py-workspace/src/motor_control/build/motor_control/build install --prefix /mnt/d/py-workspace/src/motor_control/install/motor_control --record /mnt/d/py-workspace/src/motor_control/build/motor_control/install.log --single-version-externally-managed
+[1.719s] running egg_info
+[1.720s] writing build/motor_control/motor_control.egg-info/PKG-INFO
+[1.721s] writing dependency_links to build/motor_control/motor_control.egg-info/dependency_links.txt
+[1.721s] writing entry points to build/motor_control/motor_control.egg-info/entry_points.txt
+[1.722s] writing requirements to build/motor_control/motor_control.egg-info/requires.txt
+[1.722s] writing top-level names to build/motor_control/motor_control.egg-info/top_level.txt
+[1.769s] reading manifest file 'build/motor_control/motor_control.egg-info/SOURCES.txt'
+[1.770s] writing manifest file 'build/motor_control/motor_control.egg-info/SOURCES.txt'
+[1.771s] running build
+[1.771s] running build_py
+[1.772s] running install
+[1.773s] running install_lib
+[1.777s] running install_data
+[1.778s] running install_egg_info
+[1.782s] removing '/mnt/d/py-workspace/src/motor_control/install/motor_control/lib/python3.8/site-packages/motor_control-0.0.0-py3.8.egg-info' (and everything under it)
+[1.783s] Copying build/motor_control/motor_control.egg-info to /mnt/d/py-workspace/src/motor_control/install/motor_control/lib/python3.8/site-packages/motor_control-0.0.0-py3.8.egg-info
+[1.796s] running install_scripts
+[1.822s] Installing motor_manager script to /mnt/d/py-workspace/src/motor_control/install/motor_control/lib/motor_control
+[1.823s] writing list of installed files to '/mnt/d/py-workspace/src/motor_control/build/motor_control/install.log'
+[1.848s] Invoked command in '/mnt/d/py-workspace/src/motor_control' returned '0': PYTHONPATH=/mnt/d/py-workspace/src/motor_control/install/motor_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/motor_control build --build-base /mnt/d/py-workspace/src/motor_control/build/motor_control/build install --prefix /mnt/d/py-workspace/src/motor_control/install/motor_control --record /mnt/d/py-workspace/src/motor_control/build/motor_control/install.log --single-version-externally-managed

@@ -1,0 +1,30 @@
+[1.277s] Invoking command in '/mnt/d/py-workspace/src/motor_control': PYTHONPATH=/mnt/d/py-workspace/src/motor_control/install/motor_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/motor_control build --build-base /mnt/d/py-workspace/src/motor_control/build/motor_control/build install --prefix /mnt/d/py-workspace/src/motor_control/install/motor_control --record /mnt/d/py-workspace/src/motor_control/build/motor_control/install.log --single-version-externally-managed
+[1.742s] running egg_info
+[1.742s] writing build/motor_control/motor_control.egg-info/PKG-INFO
+[1.743s] writing dependency_links to build/motor_control/motor_control.egg-info/dependency_links.txt
+[1.744s] writing entry points to build/motor_control/motor_control.egg-info/entry_points.txt
+[1.744s] writing requirements to build/motor_control/motor_control.egg-info/requires.txt
+[1.745s] writing top-level names to build/motor_control/motor_control.egg-info/top_level.txt
+[1.789s] reading manifest file 'build/motor_control/motor_control.egg-info/SOURCES.txt'
+[1.791s] writing manifest file 'build/motor_control/motor_control.egg-info/SOURCES.txt'
+[1.791s] running build
+[1.791s] running build_py
+[1.792s] copying motor_control/controller.py -> /mnt/d/py-workspace/src/motor_control/build/motor_control/build/lib/motor_control
+[1.793s] copying motor_control/motor_node.py -> /mnt/d/py-workspace/src/motor_control/build/motor_control/build/lib/motor_control
+[1.794s] copying motor_control/motor_shield.py -> /mnt/d/py-workspace/src/motor_control/build/motor_control/build/lib/motor_control
+[1.795s] running install
+[1.796s] running install_lib
+[1.799s] copying /mnt/d/py-workspace/src/motor_control/build/motor_control/build/lib/motor_control/controller.py -> /mnt/d/py-workspace/src/motor_control/install/motor_control/lib/python3.8/site-packages/motor_control
+[1.800s] copying /mnt/d/py-workspace/src/motor_control/build/motor_control/build/lib/motor_control/motor_node.py -> /mnt/d/py-workspace/src/motor_control/install/motor_control/lib/python3.8/site-packages/motor_control
+[1.801s] copying /mnt/d/py-workspace/src/motor_control/build/motor_control/build/lib/motor_control/motor_shield.py -> /mnt/d/py-workspace/src/motor_control/install/motor_control/lib/python3.8/site-packages/motor_control
+[1.804s] byte-compiling /mnt/d/py-workspace/src/motor_control/install/motor_control/lib/python3.8/site-packages/motor_control/controller.py to controller.cpython-38.pyc
+[1.807s] byte-compiling /mnt/d/py-workspace/src/motor_control/install/motor_control/lib/python3.8/site-packages/motor_control/motor_node.py to motor_node.cpython-38.pyc
+[1.809s] byte-compiling /mnt/d/py-workspace/src/motor_control/install/motor_control/lib/python3.8/site-packages/motor_control/motor_shield.py to motor_shield.cpython-38.pyc
+[1.813s] running install_data
+[1.814s] running install_egg_info
+[1.817s] removing '/mnt/d/py-workspace/src/motor_control/install/motor_control/lib/python3.8/site-packages/motor_control-0.0.0-py3.8.egg-info' (and everything under it)
+[1.819s] Copying build/motor_control/motor_control.egg-info to /mnt/d/py-workspace/src/motor_control/install/motor_control/lib/python3.8/site-packages/motor_control-0.0.0-py3.8.egg-info
+[1.830s] running install_scripts
+[1.855s] Installing motor_manager script to /mnt/d/py-workspace/src/motor_control/install/motor_control/lib/motor_control
+[1.856s] writing list of installed files to '/mnt/d/py-workspace/src/motor_control/build/motor_control/install.log'
+[1.881s] Invoked command in '/mnt/d/py-workspace/src/motor_control' returned '0': PYTHONPATH=/mnt/d/py-workspace/src/motor_control/install/motor_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/motor_control build --build-base /mnt/d/py-workspace/src/motor_control/build/motor_control/build install --prefix /mnt/d/py-workspace/src/motor_control/install/motor_control --record /mnt/d/py-workspace/src/motor_control/build/motor_control/install.log --single-version-externally-managed
