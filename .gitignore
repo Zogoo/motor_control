@@ -1,0 +1,4 @@
+build/motor_control/**
+install/motor_control/**
+log/**
+!log/.gitkeep
